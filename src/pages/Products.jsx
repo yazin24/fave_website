@@ -27,7 +27,7 @@ const Products = () => {
           data-aos-duration="4000"
         >
           <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
-            <img className="h-56 w-56" src="1.jpg" alt="" />
+            <img className="h-56 w-56" src="productsimage/1.jpg" alt="" />
             <div className="p-2 flex-col bg-violet-700">
               <div className="px-3 py-1 text-md font-bold text-center text-gray-200">
                 <span>₱ 129.00</span>
@@ -130,7 +130,7 @@ const Products = () => {
           data-aos-duration="4000"
         >
           <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
-            <img className="h-56 w-56" src="4.jpg" alt="" />
+            <img className="h-56 w-56" src="productsimage/4.jpg" alt="" />
             <div className="p-2 flex-col bg-violet-700">
               <div className="px-3 py-1 text-md font-bold text-center text-gray-200">
                 <span>₱35.00</span>
@@ -244,7 +244,7 @@ const Products = () => {
           data-aos-duration="4000"
         >
           <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
-            <img className="h-56 w-56" src="3.jpg" alt="" />
+            <img className="h-56 w-56" src="productsimage/3.jpg" alt="" />
             <div className="p-2 flex-col bg-violet-700">
               <div className="px-3 py-1 text-md font-bold text-center text-gray-200">
                 <span>₱ 129.00</span>
@@ -347,7 +347,7 @@ const Products = () => {
           data-aos-duration="4000"
         >
           <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
-            <img className="h-56 w-56" src="6.jpg" alt="" />
+            <img className="h-56 w-56" src="productsimage/6.jpg" alt="" />
             <div className="p-2 flex-col bg-violet-700">
               <div className="px-3 py-1 text-md font-bold text-center text-gray-200">
                 <span>₱35.00</span>
@@ -461,7 +461,7 @@ const Products = () => {
           data-aos-duration="4000"
         >
           <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
-            <img className="h-56 w-56" src="2.jpg" alt="" />
+            <img className="h-56 w-56" src="productsimage/2.jpg" alt="" />
             <div className="p-2 flex-col bg-violet-700">
               <div className="px-3 py-1 text-md font-bold text-center text-gray-200">
                 <span>₱ 129.00</span>
@@ -564,7 +564,7 @@ const Products = () => {
           data-aos-duration="4000"
         >
           <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
-            <img className="h-56 w-56" src="5.jpg" alt="" />
+            <img className="h-56 w-56" src="productsimage/5.jpg" alt="" />
             <div className="p-2 flex-col bg-violet-700">
               <div className="px-3 py-1 text-md font-bold text-center text-gray-200">
                 <span>₱35.00</span>
