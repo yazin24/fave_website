@@ -253,6 +253,7 @@ div .dot {
     }
 }
 
+
 .front-text {
     text-shadow:
         -1px -1px 0 #0080ff,
@@ -260,4 +261,5 @@ div .dot {
         -1px 1px 0 #0080ff,
         1px 1px 0 #0080ff;
 }
+
 
