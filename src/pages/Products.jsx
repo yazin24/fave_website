@@ -15,7 +15,7 @@ const Products = () => {
         data-aos="zoom-in"
         data-aos-easing="ease-out-cubic"
         data-aos-duration="4000"
-      >
+        >
         {/* <h2 className="font-bold text-xl text-yellow-500 mt-2">Honey Lemon</h2> */}
         <img src="HONEYLEMON.png" alt="" className="h-32 w-1/10 pb-2 " />
       </div>
