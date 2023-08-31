@@ -311,7 +311,7 @@ const Home = () => {
         data-aos-easing="ease-out-cubic"
         data-aos-duration="4000"
       >
-        <h2 className="md:mx-8 mx-8 underline text-xl cursor-pointer">
+        <h2 className="md:mx-8 mx-8 mt-14 underline text-xl cursor-pointer">
           Want a Business? Lets talk!
         </h2>
       </div>

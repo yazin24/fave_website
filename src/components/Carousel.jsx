@@ -3,13 +3,11 @@
 
   export function CarouselDefault() {
 
-    
-
-
+   
     return (
       <div className="w-full flex items-center justify-center">
         <div className="w-3/4">
-          <div className="">
+          <div className="colorlay">
             <div class="mx-auto text-center md:max-w-xl lg:max-w-3xl">
               <h3 class="mb-6 text-3xl font-bold text-primary-800 dark:text-primary-500">
                 Testimonials
@@ -21,10 +19,8 @@
             </div>
 
             <Carousel>
-            
-                
-
-              <div class="gap-6 text-center md:cols-3 lg:gap-12 md:px-10">
+              <div
+                class="gap-6 text-center md:cols-3 lg:gap-12 md:px-10 ">
                 <div class="mb-12 md:mb-0">
                   <div class="mb-6 flex justify-center">
                     <img
@@ -43,7 +39,7 @@
                     Kaya 5 Star sinubukan ko agad, dalawang extreme bula ba
                     naman ayun super bula."
                   </p>
-                  <ul class="mb-0 flex items-center justify-center">
+                  <ul class="mb-8 flex items-center justify-center">
                     <li>
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
@@ -118,7 +114,6 @@
                 </div>
               </div>
 
-              
               <div className="gap-6 text-center md:cols-3 lg:gap-12 md:px-10">
                 <div class="mb-12 md:mb-0">
                   <div class="mb-6 flex items justify-center">
@@ -213,7 +208,6 @@
                 </div>
               </div>
 
-
               <div className="gap-6 text-center md:cols-3 lg:gap-12 md:px-10">
                 <div class="mb-12 md:mb-0">
                   <div class="mb-6 flex justify-center">
@@ -305,8 +299,7 @@
                     </li>
                   </ul>
                 </div>
-              </div>
-              
+              </div> 
             </Carousel>
           </div>
         </div>

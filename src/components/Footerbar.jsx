@@ -69,11 +69,15 @@ const Footerbar = () => {
             </div>
 
             <div className="">
-              <FaTiktok className="h-5 w-5 text-white cursor-pointer" />
+              <a href="https://www.tiktok.com/@fave.ecommerce?_t=8fGbcYaYbIX&_r=1">
+                <FaTiktok className="h-5 w-5 text-white cursor-pointer" />
+              </a>
             </div>
 
             <div className="">
-              <FaYoutube className="h-5 w-5 text-white cursor-pointer" />
+              <a href="https://youtube.com/@Faveecommerce?si=BkbtUjGwI7v4fLfP">
+                <FaYoutube className="h-5 w-5 text-white cursor-pointer" />
+              </a>
             </div>
 
             <div className="">
@@ -86,7 +90,10 @@ const Footerbar = () => {
               }`}
               onClick={scrollToTop}
             >
-              <IoIosArrowDropupCircle icon={IoIosArrowDropupCircle} className="text-2xl" />
+              <IoIosArrowDropupCircle
+                icon={IoIosArrowDropupCircle}
+                className="text-2xl"
+              />
             </button>
           </div>
         </div>
