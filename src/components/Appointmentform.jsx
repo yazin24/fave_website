@@ -1,11 +1,9 @@
 import React, { useRef, useState } from "react";
 import emailjs from "@emailjs/browser";
-import Swal from 'sweetalert2'
-
-
+import Swal from "sweetalert2";
 
 const Appointmentform = () => {
-const form = useRef();
+  const form = useRef();
 
   const sendEmail = (e) => {
     e.preventDefault();
@@ -24,8 +22,7 @@ const form = useRef();
       });
       return;
     }
-    
-        
+
     emailjs
       .sendForm(
         "service_yszvwgk",
@@ -41,19 +38,19 @@ const form = useRef();
         (error) => {
           console.log(error.text);
         }
-      );   
+      );
   };
 
-const Alert = () => {
-  Swal.fire({
-    text: "Set Appointment Successfully!",
-    icon: "success",
-  }).then((result) => {
-    if (result.isConfirmed) {
-      window.location.reload("/");
-    }
-  })
-} 
+  const Alert = () => {
+    Swal.fire({
+      text: "Set Appointment Successfully!",
+      icon: "success",
+    }).then((result) => {
+      if (result.isConfirmed) {
+        window.location.reload("/");
+      }
+    });
+  };
 
   return (
     <div className="flex flex-col items-center">
@@ -165,7 +162,6 @@ const Alert = () => {
       </div>
     </div>
   );
-
 };
 
 export default Appointmentform;
