@@ -241,13 +241,17 @@ const Products = () => {
                 </div>
                 <div className="flex justify-center">
                   <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200">
-                    <a href="">Shopee</a>
+                    <a href="https://shopee.ph/Fave-Dishwashing-Liquid-Kit-900g-6x-Antibacterial-i.1007082223.21383841386">
+                      Shopee
+                    </a>
                   </button>
                 </div>
 
                 <div className="flex justify-center">
                   <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200 mt-2">
-                    <a href="">Lazada</a>
+                    <a href="https://www.lazada.com.ph/products/fave-instakit-dishwashing-liquid-900g-cream-paste-i4096954251-s22543547892.html?spm=a2o4l.10450891.0.0.2e23296bS2DzzW&priceCompare=skuId%3A22543547892%3Bsource%3Alzd-shop-center%3Bsn%3A0cbce49c-0d4a-4e94-a2d8-c1bbe518dd00%3BoriginPrice%3A8500%3BvoucherPrice%3A8500%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3Btimestamp%3A1693986709402&search=store">
+                      Lazada
+                    </a>
                   </button>
                 </div>
                 <ul class="mb-0 flex items-center justify-center pt-2">
@@ -340,13 +344,17 @@ const Products = () => {
                 </div>
                 <div className="flex justify-center">
                   <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200">
-                    <a href="">Shopee</a>
+                    <a href="https://shopee.ph/Fave-Dishwashing-Liquid-Kit-180g-6x-Antibacterial-i.1007082223.20183839909">
+                      Shopee
+                    </a>
                   </button>
                 </div>
 
                 <div className="flex justify-center">
                   <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200 mt-2">
-                    <a href="">Lazada</a>
+                    <a href="https://www.lazada.com.ph/products/fave-instakit-dishwashing-liquid-180g-cream-paste-i4096671573-s22543469310.html?spm=a2o4l.10450891.0.0.2e23296b2DWP2p&priceCompare=skuId%3A22543469310%3Bsource%3Alzd-shop-center%3Bsn%3A84b6a15b-77af-421d-8d1c-d85352acd3ee%3BoriginPrice%3A2000%3BvoucherPrice%3A2000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3Btimestamp%3A1693986796002&search=store">
+                      Lazada
+                    </a>
                   </button>
                 </div>
                 <ul class="mb-0 flex items-center justify-center pt-2">
@@ -658,13 +666,17 @@ const Products = () => {
                 </div>
                 <div className="flex justify-center">
                   <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200">
-                    <a href="">Shopee</a>
+                    <a href="https://shopee.ph/Fave-Dishwashing-Liquid-Kit-900g-6x-Antibacterial-i.1007082223.21383841386">
+                      Shopee
+                    </a>
                   </button>
                 </div>
 
                 <div className="flex justify-center">
                   <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200 mt-2">
-                    <a href="">Lazada</a>
+                    <a href="https://www.lazada.com.ph/products/fave-instakit-dishwashing-liquid-900g-cream-paste-i4096954251-s22543547892.html?spm=a2o4l.10450891.0.0.2e23296bS2DzzW&priceCompare=skuId%3A22543547892%3Bsource%3Alzd-shop-center%3Bsn%3A0cbce49c-0d4a-4e94-a2d8-c1bbe518dd00%3BoriginPrice%3A8500%3BvoucherPrice%3A8500%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3Btimestamp%3A1693986709402&search=store">
+                      Lazada
+                    </a>
                   </button>
                 </div>
                 <ul class="mb-0 flex items-center justify-center pt-2">
@@ -757,13 +769,17 @@ const Products = () => {
                 </div>
                 <div className="flex justify-center">
                   <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200">
-                    <a href="">Shopee</a>
+                    <a href="https://shopee.ph/Fave-Dishwashing-Liquid-Kit-180g-6x-Antibacterial-i.1007082223.20183839909">
+                      Shopee
+                    </a>
                   </button>
                 </div>
 
                 <div className="flex justify-center">
                   <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200 mt-2">
-                    <a href="">Lazada</a>
+                    <a href="https://www.lazada.com.ph/products/fave-instakit-dishwashing-liquid-180g-cream-paste-i4096671573-s22543469310.html?spm=a2o4l.10450891.0.0.2e23296b2DWP2p&priceCompare=skuId%3A22543469310%3Bsource%3Alzd-shop-center%3Bsn%3A84b6a15b-77af-421d-8d1c-d85352acd3ee%3BoriginPrice%3A2000%3BvoucherPrice%3A2000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3Btimestamp%3A1693986796002&search=store">
+                      Lazada
+                    </a>
                   </button>
                 </div>
                 <ul class="mb-0 flex items-center justify-center pt-2">
@@ -1075,13 +1091,17 @@ const Products = () => {
                 </div>
                 <div className="flex justify-center">
                   <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200">
-                    <a href="">Shopee</a>
+                    <a href="https://shopee.ph/Fave-Dishwashing-Liquid-Kit-900g-6x-Antibacterial-i.1007082223.21383841386">
+                      Shopee
+                    </a>
                   </button>
                 </div>
 
                 <div className="flex justify-center">
                   <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200 mt-2">
-                    <a href="">Lazada</a>
+                    <a href="https://www.lazada.com.ph/products/fave-instakit-dishwashing-liquid-900g-cream-paste-i4096954251-s22543547892.html?spm=a2o4l.10450891.0.0.2e23296bS2DzzW&priceCompare=skuId%3A22543547892%3Bsource%3Alzd-shop-center%3Bsn%3A0cbce49c-0d4a-4e94-a2d8-c1bbe518dd00%3BoriginPrice%3A8500%3BvoucherPrice%3A8500%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3Btimestamp%3A1693986709402&search=store">
+                      Lazada
+                    </a>
                   </button>
                 </div>
                 <ul class="mb-0 flex items-center justify-center pt-2">
@@ -1174,13 +1194,17 @@ const Products = () => {
                 </div>
                 <div className="flex justify-center">
                   <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200">
-                    <a href="">Shopee</a>
+                    <a href="https://shopee.ph/Fave-Dishwashing-Liquid-Kit-180g-6x-Antibacterial-i.1007082223.20183839909">
+                      Shopee
+                    </a>
                   </button>
                 </div>
 
                 <div className="flex justify-center">
                   <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200 mt-2">
-                    <a href="">Lazada</a>
+                    <a href="https://www.lazada.com.ph/products/fave-instakit-dishwashing-liquid-180g-cream-paste-i4096671573-s22543469310.html?spm=a2o4l.10450891.0.0.2e23296b2DWP2p&priceCompare=skuId%3A22543469310%3Bsource%3Alzd-shop-center%3Bsn%3A84b6a15b-77af-421d-8d1c-d85352acd3ee%3BoriginPrice%3A2000%3BvoucherPrice%3A2000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3Btimestamp%3A1693986796002&search=store">
+                      Lazada
+                    </a>
                   </button>
                 </div>
                 <ul class="mb-0 flex items-center justify-center pt-2">
