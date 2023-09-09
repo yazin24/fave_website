@@ -72,20 +72,21 @@
                 <div class="mb-12 md:mb-0">
                   <div class="mb-6 flex justify-center">
                     <img
-                      src="/female3.jpg"
+                      src="/12.jpg"
                       alt="image 1"
                       class="w-32 rounded-full shadow-lg dark:shadow-black/30 cursor-pointer"
                     />
                   </div>
-                  <h5 class="mb-4 text-xl font-semibold">Jennifer Sta. Ana</h5>
-                  <h6 class="mb-4 font-semibold text-primary dark:text-primary-500">
-                    Housewife
-                  </h6>
+                  <h5 class="mb-4 text-xl font-semibold">
+                    carolyntrugillotivodocdor
+                  </h5>
+
                   <p class="mb-4">
-                    Bilis ng delivery. Active na active si seller. 2nd time
-                    order. At meron pa susunod baka bukas na naman delivery.
-                    Kaya 5 Star sinubukan ko agad, dalawang extreme bula ba
-                    naman ayun super bula."
+                    Late review kc nagtry muna aq kung ok. And yes super ok ang
+                    product di aq nadismaya. Kc legit na mabilis makatanggal ng
+                    oil sa mga hinuhugasan. Safe and secure din ang pagkakabalot
+                    nila sa product. Salamat kay seller at kay kuya rider na
+                    nagdeliver ng product.
                   </p>
                   <ul class="mb-8 flex items-center justify-center">
                     <li>
@@ -166,20 +167,16 @@
                 <div class="mb-12 md:mb-0">
                   <div class="mb-6 flex items justify-center">
                     <img
-                      src="/female2.png"
+                      src="/111.jpg"
                       class="w-32 rounded-full shadow-lg dark:shadow-black/30 cursor-pointer"
                     />
                   </div>
-                  <h5 class="mb-4 text-xl font-semibold">Ruby Sales</h5>
-                  <h6 class="mb-4 font-semibold text-primary dark:text-primary-500">
-                    Mom of 2 kids
-                  </h6>
+                  <h5 class="mb-4 text-xl font-semibold">jadeanroe</h5>
                   <p class="mb-4">
-                    "It's easy to mix. Need mo lang talaga mag adjust sa tubig
-                    at thickener para okay ang output. May additional degreaser
-                    yung first na mixture kasi medyo watery sya. Hands po gamit
-                    ni hubby para sure daw na mahalo. 😂 Budget wise. Thank you
-                    seller!"
+                    "Sobrang bango nang diswashing at mabula kaya nakakatipid
+                    ka. Safe na safe yung product kasi nakabubble wrap talaga.
+                    Napakaapproachable nang seller. I recommend it to other
+                    buyers. "
                   </p>
                   <ul class="mb-0 flex items-center justify-center">
                     <li>
@@ -196,7 +193,7 @@
                         />
                       </svg>
                     </li>
-                    <li> 
+                    <li>
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         viewBox="0 0 24 24"
@@ -260,19 +257,18 @@
                 <div class="mb-12 md:mb-0">
                   <div class="mb-6 flex justify-center">
                     <img
-                      src="/boy1.png"
+                      src="/13.jpg"
                       class="w-32 rounded-full shadow-lg dark:shadow-black/30 cursor-pointer"
                     />
                   </div>
-                  <h5 class="mb-4 text-xl font-semibold">Celso Magapa</h5>
-                  <h6 class="mb-4 font-semibold text-primary dark:text-primary-500">
-                    Single Dad
-                  </h6>
+                  <h5 class="mb-4 text-xl font-semibold">Joy P.</h5>
+
                   <p class="mb-4">
-                    "Thank u sa seller na mabait at responsible at nag rereply
-                    agad sa chat... Salamat din Po sa items na kulang at
-                    naipadala pa rin Po ng maayos kompleto na po ung order ko
-                    maraming salamat po...! "
+                    "Late review kc nagtry muna aq kung ok. And yes suoer ok ang
+                    product di aq nadismaya. Kc legit na mabilis makatanggal ng
+                    oil sa mga hinuhugasan. Safe and secure din ang pagkakabalot
+                    nila sa product. Salamat kay seller at kay kuya rider na
+                    nagdeliver ng product. .! "
                   </p>
                   <ul class="mb-0 flex items-center justify-center">
                     <li>
